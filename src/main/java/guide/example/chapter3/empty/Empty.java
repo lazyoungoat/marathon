@@ -1,4 +1,4 @@
-package guide.example.chapter3;
+package guide.example.chapter3.empty;
 
 //Parts of the for can be empty
 public class Empty {

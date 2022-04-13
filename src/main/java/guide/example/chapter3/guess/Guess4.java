@@ -1,4 +1,4 @@
-package guide.example.chapter3;
+package guide.example.chapter3.guess;
 
 public class Guess4 {
     public static void main(String[] args)

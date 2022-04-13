@@ -1,4 +1,4 @@
-package guide.example.chapter3;
+package guide.example.chapter3.guess;
 
 // Guess the letter dame, 2nd version
 public class Guess2 {

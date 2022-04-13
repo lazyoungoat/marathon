@@ -1,4 +1,4 @@
-package guide.example.chapter3;
+package guide.example.chapter3.demoBreak;
 
 public class Break6{
     public static void main(String[] args) {

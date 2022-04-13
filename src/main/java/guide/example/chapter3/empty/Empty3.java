@@ -1,4 +1,4 @@
-package guide.example.chapter3;
+package guide.example.chapter3.empty;
 
 public class Empty3 {
     public static void main(String[] args) {

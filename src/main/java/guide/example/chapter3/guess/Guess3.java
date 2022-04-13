@@ -1,4 +1,4 @@
-package guide.example.chapter3;
+package guide.example.chapter3.guess;
 
 // Guess the letter game, 3rd version.
 public class Guess3 {

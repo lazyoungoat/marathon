@@ -1,4 +1,4 @@
-package guide.example.chapter3;
+package guide.example.chapter3.guess;
 
 import java.sql.SQLOutput;
 

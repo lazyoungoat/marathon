@@ -1,6 +1,6 @@
-package guide.example.chapter3;
+package guide.example.chapter3.demoBreak;
 
-public class BreakDemo {
+public class Break1 {
     public static void main(String[] args) {
         // Using break to exit a loop.
         int num;
