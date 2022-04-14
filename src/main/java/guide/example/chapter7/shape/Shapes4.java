@@ -1,17 +1,11 @@
 package guide.example.chapter7.shape;
 
-public class Shape  {
+public class Shapes4 {
     public static void main(String[] args) {
-        Triangle t1 = new Triangle();
-        Triangle t2 = new Triangle();
+        Triangle4 t1 = new Triangle4("filled", 4.0, 4.0);
+        Triangle4 t2 = new Triangle4("outlined", 8.0, 12.0);
+        Triangle4 t3 = new Triangle4(4.0);
 
-        t1.width = 4.0;
-        t1.height = 4.0;
-        t1.style = "filled";
-
-        t2.width = 8.0;
-        t2.height = 12.0;
-        t2.style = "outlined";
 
         System.out.println("Info for t1: ");
         t1.showStyle();
@@ -26,9 +20,10 @@ public class Shape  {
         System.out.println("Area is " + t2.area());
 
         System.out.println();
-        TwoDShape shape = new TwoDShape();
-        shape.height = 2.0;
-        shape.width = 4.0;
-        shape.showDim();
+
+        System.out.println("Info for t3: ");
+        t3.showStyle();
+        t3.showDim();
+        System.out.println("Area is " + t3.area());
     }
 }
