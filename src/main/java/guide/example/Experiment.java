@@ -1,5 +1,6 @@
 package guide.example;
 
+
 import java.util.Scanner;
 
 public class Experiment {
@@ -21,6 +22,7 @@ public class Experiment {
                 }
                 System.out.println();
             }
+
 
     }
 
